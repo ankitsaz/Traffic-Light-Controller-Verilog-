@@ -1,3 +1,5 @@
 # Traffic-Light-Controller-Verilog
 
-The project includes system design of a t intersection traffic light controller and its verilog code
+This project is a simulation of a traffic light control system implemented using Verilog. 
+The system is designed to manage traffic signals at an intersection, ensuring smooth and efficient traffic flow.
+
